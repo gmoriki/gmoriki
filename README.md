@@ -7,9 +7,10 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
+- 🧑‍💻 I'm a university administrative staff member.
+- 🌱 I’m currently learning Human AI Interaction!
 - 📫 How to reach me: [Twitter - @pogohopper8](https://twitter.com/pogohopper8)
+- 📫 about my research: [Researchmap - 森木銀河](https://researchmap.jp/gmoriki)
 <br>
 
 
@@ -17,7 +18,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,docker,vscode,md,html,css,js" />
 <br>
 
 
